@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @S1rNasir
+- 👀 I’m interested in 0x, solidity 
